@@ -1,0 +1,2 @@
+The application allows to create folder structure described in the "structure.json", which may be located in the root of the project or besides the executable file in case of using it after building.
+Pretty simple but very useful in many cases
